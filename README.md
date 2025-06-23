@@ -4,6 +4,9 @@
 
 Este es un sistema de gestión de biblioteca personal desarrollado en **Visual Basic 6.0** que permite a los usuarios organizar y administrar su colección de libros de manera eficiente.
 
+<!-- agrega imagen  -->
+![Imagen del Proyecto](https://github.com/IVAN-DALI-GARCIA/repositorioDelibros/blob/master/Imagenes/ice_screenshot_20250623-153710.png)
+
 ## Características Principales
 
 ### 🏠 **Formulario Principal (Form1.frm)**
